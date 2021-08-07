@@ -1,3 +1,3 @@
 # KnowledgeDump
 
-Repo of my notes, as i discover and master skills essential to becoming a data expert!
+Repo of my notes and sample codes, as i discover and master skills essential to becoming a data expert!
